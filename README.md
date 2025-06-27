@@ -56,6 +56,3 @@ This repository showcases a structured **Data Analysis (DA)** approach to uncove
 
 Contributions to extend the analysis—such as deeper segmentation, advanced visualizations, or additional statistical tests—are welcome!
 
----
-
-*This README focuses solely on the data analysis lifecycle, from ingestion to insights.*
